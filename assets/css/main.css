@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	#headshot {
+		border-radius: 100%;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2024,6 +2028,7 @@
 
 		#banner p {
 			margin: 0;
+			padding: 0rem 4rem;
 		}
 
 		#banner footer {
