@@ -1314,7 +1314,7 @@
 /* Basic */
 
 	body {
-		background-color: #183026;
+		background-color: #150040;
 		background-image: url("images/overlay.png"), url("../../images/bg2.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -1500,7 +1500,7 @@
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+							}
 
 /* List */
 
@@ -1810,10 +1810,10 @@
 			}
 
 				.box.style1 .image img {
-					position: absolute;
+					/*position: absolute;*/
 					top: 0;
 					height: 100%;
-					width: auto;
+					/*width: auto;*/
 				}
 
 			.box.style1 .inner > :last-child {
